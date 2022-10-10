@@ -1,2 +1,2 @@
 # Scenery
-A C++ Software Based Rendering Library
+A C++ software-based-rendering library
